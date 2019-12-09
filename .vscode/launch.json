@@ -2,6 +2,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Review",
+            "request": "launch",
+            "mainClass": "Review"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Compiling",
+            "request": "launch",
+            "mainClass": "Compiling"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LanguageFacts",
+            "request": "launch",
+            "mainClass": "LanguageFacts"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Timeline",
+            "request": "launch",
+            "mainClass": "Timeline"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HelloYou",
+            "request": "launch",
+            "mainClass": "HelloYou"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - helloWorld",
+            "request": "launch",
+            "mainClass": "helloWorld"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - hello",
             "request": "launch",
             "mainClass": "hello"
