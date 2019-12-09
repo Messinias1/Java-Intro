@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - CountComment",
+            "request": "launch",
+            "mainClass": "CountComment",
+            "projectName": "java_463332f4"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Creator",
             "request": "launch",
             "mainClass": "Creator",
