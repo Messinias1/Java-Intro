@@ -2,6 +2,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - MultAndDivide",
+            "request": "launch",
+            "mainClass": "MultAndDivide",
+            "projectName": "java_463332f4"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PlusAndMinus",
+            "request": "launch",
+            "mainClass": "PlusAndMinus",
+            "projectName": "java_463332f4"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GuessingGame",
+            "request": "launch",
+            "mainClass": "GuessingGame",
+            "projectName": "java_463332f4"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Char",
             "request": "launch",
             "mainClass": "Char",
