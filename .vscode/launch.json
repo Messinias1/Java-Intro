@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - GreaterLessThan",
+            "request": "launch",
+            "mainClass": "GreaterLessThan",
+            "projectName": "java_463332f4"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Modulo",
+            "request": "launch",
+            "mainClass": "Modulo",
+            "projectName": "java_463332f4"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - MultAndDivide",
             "request": "launch",
             "mainClass": "MultAndDivide",
